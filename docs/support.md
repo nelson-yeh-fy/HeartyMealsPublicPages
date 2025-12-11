@@ -6,7 +6,7 @@ We're here to help! If you have any questions, issues, or feedback about Hearty 
 
 ### 📧 Email Support
 For direct assistance, please email us at:
-**[Your Support Email Here]** (e.g., support@heartymeals.app)
+**heartymeals7@gmail.com**
 
 ### 🐛 Report a Bug
 Found a glitch? Please let us know by submitting an issue on our GitHub repository or emailing us with the subject line "Bug Report".
